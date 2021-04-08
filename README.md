@@ -170,4 +170,3 @@ Thanks to [Theo Arends](https://github.com/arendst) and the entire Tasmota Dev T
 #### License
 
 TasmoCompiler is licensed under the [MIT license](LICENSE).
-
